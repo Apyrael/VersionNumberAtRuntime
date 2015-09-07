@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VersionNumberAtRuntime</string>
+
+    <string name="main">Press to show the version numbers</string>
+    <string name="pressMe">Press Me!</string>
+</resources>
